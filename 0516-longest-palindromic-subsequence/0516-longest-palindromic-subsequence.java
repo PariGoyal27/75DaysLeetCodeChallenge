@@ -1,11 +1,10 @@
 class Solution {
     public int longestPalindromeSubseq(String s) {
         int n = s.length();
-        StringBuilder sb = new StringBuilder();
+        StringBuilder b = new StringBuilder();
         for(int i = n-1; i >= 0; i--){
-            sb.append(s.charAt(i));
+            b.append(s.charAt(i));
         }
-        String b = sb.toString();
         int[][] dp = new int[n+1][n+1];
         for(int i = 1; i < n+1; i++){
             for(int j = 1; j < n+1; j++){
