@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0583-delete-operation-for-two-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
