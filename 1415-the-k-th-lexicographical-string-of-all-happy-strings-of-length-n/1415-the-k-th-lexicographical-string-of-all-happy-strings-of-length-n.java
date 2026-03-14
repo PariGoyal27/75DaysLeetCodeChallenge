@@ -1,29 +1,24 @@
 class Solution {
-    String ans = "";
-    int k;
-    private void solve(int n, StringBuilder sb){
+    char[] arr = {'a', 'b', 'c'};
+    private void solve(int n, int k, StringBuilder sb, List<String> ans){
+        if(ans.size() == k) return;
         if(sb.length() == n){
-            k--;
-            if(k == 0){
-                ans = sb.toString();
-            }
+            ans.add(sb.toString());
             return;
         }
-        for(char ch : new char[]{'a', 'b', 'c'}){
-            if(sb.length() > 0 && sb.charAt(sb.length()-1) == ch)
+        for(int i = 0; i < 3; i++){
+            if(sb.length() > 0 && sb.charAt(sb.length()-1) == arr[i])
                 continue;
-            
-            sb.append(ch);
-            solve(n, sb);
-
-            if(!ans.equals("")) return; // If ans has been found
+            sb.append(arr[i]);
+            solve(n, k, sb, ans);
             sb.deleteCharAt(sb.length()-1);
         }
     }
     public String getHappyString(int n, int k) {
-        this.k = k;
+        List<String> ans = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
-        solve(n, sb);
-        return ans;
+        solve(n, k, sb, ans);
+        if(k > ans.size()) return "";
+        return ans.get(k-1);
     }
 }
