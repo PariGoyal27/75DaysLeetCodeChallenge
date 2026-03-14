@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0409-longest-palindrome) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
