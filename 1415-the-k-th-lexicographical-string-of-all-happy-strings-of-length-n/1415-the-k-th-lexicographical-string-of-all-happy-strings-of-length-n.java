@@ -1,6 +1,7 @@
 class Solution {
     char[] arr = {'a', 'b', 'c'};
     private void solve(int n, int k, StringBuilder sb, List<String> ans){
+        if(ans.size() == k) return;
         if(sb.length() == n){
             ans.add(sb.toString());
             return;
@@ -10,7 +11,6 @@ class Solution {
                 continue;
             sb.append(arr[i]);
             solve(n, k, sb, ans);
-            if(ans.size() == k) return;
             sb.deleteCharAt(sb.length()-1);
         }
     }
