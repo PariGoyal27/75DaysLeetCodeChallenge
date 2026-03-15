@@ -4,24 +4,24 @@ class Solution {
         if(k == 1 || n == 0 || n == 1)
             return n;
         if(dp[k][n] != -1) return dp[k][n];
-        
+
         int low = 1, high = n;
         int min = Integer.MAX_VALUE;
-        while(low <= high){
-            int mid = (low + high) / 2;
-
-            int down = (dp[k-1][mid-1] != -1) ? dp[k-1][mid-1] : solve(k-1, mid-1);
-            int up   = (dp[k][n-mid] != -1) ? dp[k][n-mid] : solve(k, n-mid);
-
+        for(int i = 1; i <= n; i++){
+            int down, up;
+            if(dp[k-1][i-1] != -1) down = dp[k-1][i-1];
+            else {
+                down = solve(k-1, i-1);
+                dp[k-1][i-1] = down;
+            }
+            if(dp[k][n-i] != -1) up = dp[k][n-i];
+            else {
+                up = solve(k, n-i);
+                dp[k][n-i] = up;
+            }
             int temp = 1 + Math.max(down, up);
             min = Math.min(min, temp);
-
-            if(down > up)
-                high = mid - 1;
-            else
-                low = mid + 1;
         }
-        return dp[k][n] = min;
         return dp[k][n] = min;
     }
     public int superEggDrop(int k, int n) {
