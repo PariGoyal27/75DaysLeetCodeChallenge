@@ -1,12 +1,15 @@
 class Solution {
-    int solve(int i, int[] nums, int sum, int[][] dp){
-        if(i >= nums.length){
-            return sum;
+    int solve(int n, int[] nums, int[] dp){
+        if(n <= 0){
+            return 0;
         }
-        if(dp[i][sum] != -1)
-            return dp[i][sum];
-        int temp = Math.max(solve(i+2, nums, sum+nums[i], dp), solve(i+1, nums, sum, dp));
-        return dp[i][sum] = temp;
+        if(n == 1) return nums[0];
+        if(dp[n] != -1)
+            return dp[n];
+        
+        int pick = nums[n-1] + solve(n-2, nums, dp);
+        int notPick = solve(n-1, nums, dp);
+        return dp[n] = Math.max(pick, notPick);
     }
     public int rob(int[] nums) {
         int n = nums.length;
@@ -14,9 +17,8 @@ class Solution {
         for(int i = 0; i < n; i++){
             sum += nums[i];
         }
-        int[][] dp = new int[n+1][sum+1];
-        for(int[] row : dp)
-            Arrays.fill(row, -1);
-        return solve(0, nums, 0, dp);
+        int[] dp = new int[n+1];
+        Arrays.fill(dp, -1);
+        return solve(n, nums, dp);
     }
 }
