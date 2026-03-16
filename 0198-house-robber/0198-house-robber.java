@@ -13,10 +13,6 @@ class Solution {
     }
     public int rob(int[] nums) {
         int n = nums.length;
-        int sum = 0;
-        for(int i = 0; i < n; i++){
-            sum += nums[i];
-        }
         int[] dp = new int[n+1];
         Arrays.fill(dp, -1);
         return solve(n, nums, dp);
