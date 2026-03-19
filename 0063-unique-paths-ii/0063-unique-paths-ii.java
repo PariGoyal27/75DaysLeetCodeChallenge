@@ -1,7 +1,7 @@
 class Solution {
     int[][] dp = new int[101][101];
     private int solve(int[][] grid, int i, int j, int m, int n){
-        if(i >= m || j >= n) return 0;
+        if(i == m || j == n) return 0;
         if(grid[i][j] == 1) return 0;
         if(i == m-1 && j == n-1) return 1;
         if(dp[i][j] != -1) return dp[i][j];
