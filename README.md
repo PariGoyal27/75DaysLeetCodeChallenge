@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
+| [0120-triangle](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
