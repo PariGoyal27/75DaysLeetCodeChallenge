@@ -17,7 +17,6 @@ class Solution {
     }
     public int minRemovals(int[] nums, int target) {
         int n = nums.length;
-        // map.clear();
         for(int[] row : dp) Arrays.fill(row, -1);
         int ans = solve(nums, 0, 0, target);
         return ans == Integer.MAX_VALUE ? -1 : ans;
@@ -48,6 +47,7 @@ class Solution {
 //         return ans == Integer.MAX_VALUE ? -1 : ans;
 //     }
 // }
+
 // Recursion - TLE(972/1048)
 // class Solution {
 //     private int solve(int[] nums, int xor, int i, int target){
