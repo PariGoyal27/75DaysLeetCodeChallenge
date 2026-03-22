@@ -4,14 +4,15 @@ class Solution {
         int fives = 0;
         int tens = 0;
         for(int i = 0; i < n; i++){
-            if(bills[i] > 5 && fives == 0)
-                return false;
             if(bills[i] == 5) fives++;
-            if(bills[i] == 10) {
-                tens++;
-                fives--;
+            else if(bills[i] == 10) {
+                if(fives >=1){
+                    tens++;
+                    fives--;
+                }else
+                    return false;
             }
-            if(bills[i] == 20){
+            else{
                 if(tens >= 1 && fives >= 1){
                     tens--;
                     fives--;
