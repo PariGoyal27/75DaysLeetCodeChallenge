@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2906-construct-product-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3643-flip-square-submatrix-vertically](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Math
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [2906-construct-product-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Combinatorics
 |  |
 | ------- |
