@@ -7,10 +7,9 @@ class Solution {
 
         int cnt = 0, sum = 0;
         for(int i = 1; i <= n; i++){
-            if(sum >= maxSum) return cnt;
-            if(!hs.contains(i)){ 
+            if(!hs.contains(i) && sum + i <= maxSum){ 
                 sum += i;
-                if(sum <= maxSum) cnt++;
+                cnt++;
             }
         }
         return cnt;
