@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [3643-flip-square-submatrix-vertically](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Math
 |  |
