@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1328-break-a-palindrome) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0887-super-egg-drop](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
+| [0991-broken-calculator](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0991-broken-calculator) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Memoization
 |  |
