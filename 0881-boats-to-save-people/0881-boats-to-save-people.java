@@ -4,16 +4,15 @@ class Solution {
         Arrays.sort(people);
         int boats = 0;
         int i = 0, j = n-1;
-        while(i < j){
+        while(i <= j){
             int sum = people[i] + people[j];
             if(sum <= limit){
-                boats++;
                 i++; j--;
             }else{
                 j--;
-                boats++;
             }
+            boats++;
         } 
-        return i == j ? boats+1 : boats;
+        return boats;
     }
 }
