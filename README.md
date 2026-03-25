@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2906-construct-product-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3546-equal-sum-grid-partition-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [2906-construct-product-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3546-equal-sum-grid-partition-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Counting Sort
 |  |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
