@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1328-break-a-palindrome) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0887-super-egg-drop](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [0931-minimum-falling-path-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0624-maximum-distance-in-arrays) |
+| [0678-valid-parenthesis-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
