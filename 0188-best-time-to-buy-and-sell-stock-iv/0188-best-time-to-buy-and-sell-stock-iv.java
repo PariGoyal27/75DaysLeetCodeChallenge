@@ -1,20 +1,46 @@
+//Space Optimization
 class Solution {
     public int maxProfit(int k, int[] prices) {
         int n = prices.length;
-        int[][][] dp = new int[n+1][2][k+1];
+        int[][] ahead = new int[2][k+1];
+        int[][] curr = new int[2][k+1];
         for(int i = n-1; i >= 0; i--){
-            for(int buy = 0; buy <= 1; buy++){
+            // for(int buy = 0; buy <= 1; buy++){
                 for(int cap = 1; cap <= k; cap++){
-                    if(buy == 1)
-                        dp[i][buy][cap] = Math.max(-prices[i] + dp[i+1][0][cap], dp[i+1][1][cap]);
-                    else
-                        dp[i][buy][cap] = Math.max(prices[i] + dp[i+1][1][cap-1], dp[i+1][0][cap]);
+                    // if(buy == 1){
+                        curr[1][cap] = Math.max(-prices[i] + ahead[0][cap], 
+                                0 + ahead[1][cap]);
+                    // }else{ 
+                        curr[0][cap] = Math.max(prices[i] + ahead[1][cap-1], 
+                                0 + ahead[0][cap]);
+                    // }
                 }
+            // }
+            for(int j = 0; j < 2; j++){
+                System.arraycopy(curr[j], 0, ahead[j], 0, k+1);
             }
         }
-        return dp[0][1][k];
+        return ahead[1][k];
     }
-}
+}        
+//Tabulation
+// class Solution {
+//     public int maxProfit(int k, int[] prices) {
+//         int n = prices.length;
+//         int[][][] dp = new int[n+1][2][k+1];
+//         for(int i = n-1; i >= 0; i--){
+//             // for(int buy = 0; buy <= 1; buy++){
+//                 for(int cap = 1; cap <= k; cap++){
+//                     // if(buy == 1)
+//                         dp[i][1][cap] = Math.max(-prices[i] + dp[i+1][0][cap], dp[i+1][1][cap]);
+//                     // else
+//                         dp[i][0][cap] = Math.max(prices[i] + dp[i+1][1][cap-1], dp[i+1][0][cap]);
+//                 }
+//             // }
+//         }
+//         return dp[0][1][k];
+//     }
+// }
 //memoization
 // class Solution{
 //     public int maxProfit(int k, int[] prices){
