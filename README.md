@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1328-break-a-palindrome) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
