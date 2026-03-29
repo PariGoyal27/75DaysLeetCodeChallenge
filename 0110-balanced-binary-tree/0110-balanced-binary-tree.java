@@ -16,6 +16,24 @@
 class Solution {
     private int height(TreeNode node){
         if(node == null) return 0;
+        int left = height(node.left);
+        int right = height(node.right);
+
+        if(Math.abs(left - right) > 1) return -1;
+        if(left == -1 || right == -1) return -1;
+
+        return 1 + Math.max(left, right);
+    }
+    public boolean isBalanced(TreeNode root) {
+        if(height(root) == -1) return false;
+        return true;
+    }
+}
+
+/**
+class Solution {
+    private int height(TreeNode node){
+        if(node == null) return 0;
         int left = 1 + height(node.left);
         int right = 1 + height(node.right);
 
@@ -33,3 +51,4 @@ class Solution {
         }
     }
 }
+ */
