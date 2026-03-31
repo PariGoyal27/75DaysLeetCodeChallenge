@@ -28,7 +28,7 @@ class Solution {
         //Iterative
         if(root == null) return ans;
         Stack<TreeNode> st1 = new Stack<>();
-        Stack<Integer> st2 = new Stack<>();
+        // Stack<Integer> st2 = new Stack<>();
         st1.push(root);
         while(!st1.isEmpty()){
             TreeNode node = st1.pop();
