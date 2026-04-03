@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0887-super-egg-drop](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
