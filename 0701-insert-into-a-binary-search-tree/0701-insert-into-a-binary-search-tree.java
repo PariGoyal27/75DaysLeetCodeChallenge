@@ -17,21 +17,31 @@ class Solution {
     public TreeNode insertIntoBST(TreeNode root, int val) {
         if(root == null)
             return new TreeNode(val);
-        TreeNode temp = root;
-        while(true){
-            if(val > root.val){
-                if(root.right == null){
-                    root.right = new TreeNode(val);
-                    return temp;
-                }
-                root = root.right;
-            }else{
-                if(root.left == null){
-                    root.left = new TreeNode(val);
-                    return temp;
-                }
-                root = root.left;
-            }
+
+        //Recursive
+        if(val > root.val){
+            root.right = insertIntoBST(root.right, val);
+        }else{
+            root.left = insertIntoBST(root.left, val);
         }
+        return root;
+
+        // Iterative
+        // TreeNode temp = root;
+        // while(true){
+        //     if(val > root.val){
+        //         if(root.right == null){
+        //             root.right = new TreeNode(val);
+        //             return temp;
+        //         }
+        //         root = root.right;
+        //     }else{
+        //         if(root.left == null){
+        //             root.left = new TreeNode(val);
+        //             return temp;
+        //         }
+        //         root = root.left;
+        //     }
+        // }
     }
 }
