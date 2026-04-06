@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
@@ -423,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
