@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
@@ -500,4 +502,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
