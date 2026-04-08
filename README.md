@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [0931-minimum-falling-path-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Greedy
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
