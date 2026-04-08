@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3546-equal-sum-grid-partition-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Hash Table
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Search Tree
 |  |
 | ------- |
