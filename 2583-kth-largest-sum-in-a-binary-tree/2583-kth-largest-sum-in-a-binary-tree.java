@@ -19,7 +19,7 @@ class Solution {
         Queue<TreeNode> q = new LinkedList<>();
         PriorityQueue<Long> pq = new PriorityQueue<>(); //min-heap
         q.offer(root);
-        int level = 0;
+        // int level = 0;
         while(!q.isEmpty()){
             int size = q.size();
             long sum = 0;
@@ -31,13 +31,13 @@ class Solution {
                 if(tmp.right != null)
                     q.offer(tmp.right);
             }
-            level++;
+            // level++;
             pq.offer(sum);
             if(pq.size() > k){
                 pq.poll();
             }
         }
-        if(level < k) return -1;
+        if(pq.size() < k) return -1;
         return pq.peek();
     }
 }
