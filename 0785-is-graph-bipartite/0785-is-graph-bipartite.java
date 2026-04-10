@@ -1,13 +1,12 @@
 // DFS
 class Solution {
     int[] color;
-
-    private boolean dfs(int prevColor, int curr, int[][] graph){
-        color[curr] = 1 - prevColor;
-        for(int it : graph[curr]){
+    private boolean dfs(int node, int col, int[][] graph){
+        color[node] = col;
+        for(int it : graph[node]){
             if(color[it] == -1){
-                if(!dfs(color[curr], it, graph)) return false;
-            }else if(color[it] == color[curr]){
+                if(!dfs(it, 1 - col, graph)) return false;
+            }else if(color[it] == col){
                 return false;
             }
         }
@@ -20,7 +19,7 @@ class Solution {
 
         for(int i = 0; i < V; i++){
             if(color[i] == -1){
-                if(!dfs(0, i, graph)) return false;
+                if(!dfs(i, 0, graph)) return false;
             }
         }
         return true;
@@ -29,7 +28,6 @@ class Solution {
 // BFS
 // class Solution {
 //     int[] color;
-
 //     private boolean bfs(int start, int[][] graph){
 //         Queue<Integer> q = new LinkedList<>();
 //         q.offer(start);
