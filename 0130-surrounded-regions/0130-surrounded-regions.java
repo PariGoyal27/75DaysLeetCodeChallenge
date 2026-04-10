@@ -14,23 +14,10 @@ class Solution {
             }
         }
     }
-    // private void dfsChange(int r, int c, char[][] board){
-    //     board[r][r] = 'X';
-    //     visited[r][c] = true;
-    //     for(int i = 0; i < 4; i++){
-    //         int nrow = r + drow[i];
-    //         int ncol = c + dcol[i];
-    //         if(nrow >= 0 && nrow < m && ncol >= 0 && ncol < n
-    //         && !visited[nrow][ncol] && board[nrow][ncol] == 'O'){
-    //             dfsChange(nrow, ncol, board);
-    //         }
-    //     }
-    // }
     public void solve(char[][] board) {
         m = board.length;
         n = board[0].length;
         visited = new boolean[m][n];
-        char[][] dummy = board;
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 if(i == 0 || j == 0 || i == m-1 || j == n-1){
