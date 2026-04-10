@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1302-deepest-leaves-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1302-deepest-leaves-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1302-deepest-leaves-sum) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
