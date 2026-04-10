@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
