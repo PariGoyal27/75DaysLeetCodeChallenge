@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
@@ -579,5 +582,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
