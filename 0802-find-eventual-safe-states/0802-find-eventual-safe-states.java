@@ -11,13 +11,13 @@ class Solution {
         for(int i = 0; i < V; i++){
             for(int it : graph[i]){
                 adjRev.get(it).add(i);
+                indegree[i]++;
             }
         }
-        for(int i = 0; i < V; i++){
-            for(Integer it : adjRev.get(i)){
-                indegree[it]++;
-            }
-        }
+        // for(int i = 0; i < V; i++){
+        //     for(Integer it : adjRev.get(i)){
+        //     }
+        // }
         Queue<Integer> q = new LinkedList<>();
         for(int i = 0; i < V; i++){
             if(indegree[i] == 0){
