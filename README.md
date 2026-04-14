@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0087-scramble-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
+| [0127-word-ladder](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
