@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
