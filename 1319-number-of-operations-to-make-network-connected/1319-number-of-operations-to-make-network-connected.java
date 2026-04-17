@@ -1,6 +1,6 @@
 class DisjointSets{
-    List<Integer> size = new ArrayList<>();
-    List<Integer> parent = new ArrayList<>();
+    public List<Integer> size = new ArrayList<>();
+    public List<Integer> parent = new ArrayList<>();
     DisjointSets(int n){
         for(int i = 0; i <= n; i++){
             size.add(1);
@@ -46,7 +46,7 @@ class Solution {
         //Counting number of disconnected Computers
         int disCompo = 0;
         for(int i = 0; i < n; i++){
-            if(ds.findUpar(i) == i){
+            if(ds.parent.get(i) == i){
                 disCompo++;
             }
         }
