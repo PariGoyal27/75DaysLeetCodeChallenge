@@ -33,13 +33,13 @@ class Solution {
     public int[] findRedundantConnection(int[][] edges) {
         int n = edges.length;
         DisjointSets ds = new DisjointSets(n);
-        int[] ans = new int[2];
+        
         for(int[] e : edges){
             int u = e[0], v = e[1];
             if(ds.findUpar(u) == ds.findUpar(v))
                 return e;
             ds.unionByRank(u, v);
         }
-        return ans;
+        return new int[0];
     }
 }
