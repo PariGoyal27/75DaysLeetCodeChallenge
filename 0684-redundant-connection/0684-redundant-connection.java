@@ -36,13 +36,9 @@ class Solution {
         int[] ans = new int[2];
         for(int[] e : edges){
             int u = e[0], v = e[1];
-            int ulp_u = ds.findUpar(u);
-            int ulp_v = ds.findUpar(v);
-            if(ulp_u == ulp_v){
-                ans[0] = u;
-                ans[1] = v;
-            }else
-                ds.unionByRank(u, v);
+            if(ds.findUpar(u) == ds.findUpar(v))
+                return e;
+            ds.unionByRank(u, v);
         }
         return ans;
     }
