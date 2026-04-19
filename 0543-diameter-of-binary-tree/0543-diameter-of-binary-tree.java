@@ -15,15 +15,15 @@
  */
 class Solution {
     int diam = 0;
-    public int diameterOfBinaryTree(TreeNode root) {
-        solve(root);
-        return diam;
+    private int height(TreeNode root){
+        if(root == null) return 0;
+        int left = height(root.left);
+        int right = height(root.right);
+        diam = Math.max(diam, left + right);
+        return 1 + Math.max(left, right);
     }
-    private int solve(TreeNode node){
-        if(node == null) return 0;
-        int left = solve(node.left); // left height
-        int right = solve(node.right); // right height
-        diam = Math.max(diam, left + right); // path length = leftHeight + rightHeight
-        return 1 + Math.max(left, right); // finding max as we want height not any path from left & right
+    public int diameterOfBinaryTree(TreeNode root) {
+        height(root);
+        return diam;
     }
 }
