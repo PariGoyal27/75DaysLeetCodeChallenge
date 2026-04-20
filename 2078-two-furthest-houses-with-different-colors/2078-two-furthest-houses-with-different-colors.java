@@ -11,6 +11,7 @@ class Solution {
         for(int i = n-1; i > 0; i--){
             if(colors[0] != colors[i]){
                 maxDist = Math.max(maxDist, i);
+                break;
             }
         }
         // for(int i = 0; i < n-1; i++){
