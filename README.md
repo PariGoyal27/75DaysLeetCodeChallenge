@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1631-path-with-minimum-effort](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1833-maximum-ice-cream-bars](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Graph Theory
 |  |
 | ------- |
