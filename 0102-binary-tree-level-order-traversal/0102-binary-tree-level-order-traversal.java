@@ -20,16 +20,17 @@ class Solution {
         Queue<TreeNode> q = new LinkedList<>();
         q.offer(root);
         while(!q.isEmpty()){
-            int level = q.size();
-            List<Integer> list = new ArrayList<>();
-            for(int i = 0; i < level; i++){
-                if(q.peek().left != null)
-                    q.offer(q.peek().left);
-                if(q.peek().right != null)
-                    q.offer(q.peek().right);
-                list.add(q.poll().val); 
+            int size = q.size();
+            ans.add(new ArrayList<>());
+
+            for(int i = 0; i < size; i++){
+                TreeNode cur = q.poll();
+                ans.get(ans.size()-1).add(cur.val);
+                if(cur.left != null) 
+                    q.offer(cur.left);
+                if(cur.right != null)
+                    q.offer(cur.right);
             }
-            ans.add(list);
         }
         return ans;
     }
