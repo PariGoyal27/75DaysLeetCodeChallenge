@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
+| [0208-implement-trie-prefix-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Queue
@@ -692,5 +695,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
