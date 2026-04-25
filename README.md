@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2121-intervals-between-identical-elements](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2121-intervals-between-identical-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [2121-intervals-between-identical-elements](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2121-intervals-between-identical-elements) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [2121-intervals-between-identical-elements](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2971-find-polygon-with-the-largest-perimeter) |
