@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2121-intervals-between-identical-elements](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2121-intervals-between-identical-elements) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0991-broken-calculator) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1328-break-a-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1328-break-a-palindrome) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
