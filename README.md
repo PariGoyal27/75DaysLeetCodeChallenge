@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1631-path-with-minimum-effort](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1833-maximum-ice-cream-bars](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [0991-broken-calculator](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0991-broken-calculator) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2121-intervals-between-identical-elements](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
