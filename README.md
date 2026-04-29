@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2906-construct-product-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3546-equal-sum-grid-partition-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0991-broken-calculator) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
