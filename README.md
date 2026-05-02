@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0396-rotate-function](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0887-super-egg-drop](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [0991-broken-calculator](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0991-broken-calculator) |
