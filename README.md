@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1561-maximum-number-of-coins-you-can-get) |
