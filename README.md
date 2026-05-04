@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
