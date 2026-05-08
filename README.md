@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3407-substring-matching-pattern](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3407-substring-matching-pattern) |
+| [3582-generate-tag-for-video-caption](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3582-generate-tag-for-video-caption) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3582-generate-tag-for-video-caption](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3582-generate-tag-for-video-caption) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Search Tree
 |  |
