@@ -6,6 +6,7 @@ class Solution {
             map.putIfAbsent(arr[i], new ArrayList<>());
             map.get(arr[i]).add(i);
         }
+        HashSet<Integer> seen = new HashSet<>();
         boolean[] visited = new boolean[n];
         Queue<Integer> q = new LinkedList<>();
         q.offer(0);
@@ -27,14 +28,14 @@ class Solution {
                     visited[i + 1] = true;
                 }
                 // j
-                if(map.containsKey(arr[i])){
+                if(map.containsKey(arr[i]) && !seen.contains(arr[i])){
                     for(int j : map.get(arr[i])){
                         if(!visited[j]){
                             q.offer(j);
                             visited[j] = true;
                         }
                     }
-                    map.remove(arr[i]);
+                    seen.add(arr[i]);
                 }
             }
             steps++;
