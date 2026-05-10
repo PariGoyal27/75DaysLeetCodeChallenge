@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2615-sum-of-distances](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2906-construct-product-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [2923-find-champion-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2923-find-champion-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Greedy
 |  |
 | ------- |
