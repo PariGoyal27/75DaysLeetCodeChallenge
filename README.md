@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0827-making-a-large-island](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0827-making-a-large-island) |
+| [0867-transpose-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1020-number-of-enclaves) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+| [0867-transpose-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3582-generate-tag-for-video-caption](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3582-generate-tag-for-video-caption) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
