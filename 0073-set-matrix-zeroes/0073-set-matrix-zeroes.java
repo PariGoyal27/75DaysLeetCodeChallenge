@@ -15,18 +15,9 @@ class Solution {
         }
         // setting rows that need to be set to zero
         for(int i = 0; i < r; i++){
-            if(row[i]){
-                for(int j = 0; j < c; j++){
-                    matrix[i][j] = 0;
-                }
-            }
-        }
-        // setting colm that need to be set to zero
-        for(int j = 0; j < c; j++){
-            if(col[j]){
-                for(int i = 0; i < r; i++){
-                    matrix[i][j] = 0;
-                }
+            for(int j = 0; j < c; j++){
+                if(row[i] || col[j])
+                matrix[i][j] = 0;
             }
         }
     }
