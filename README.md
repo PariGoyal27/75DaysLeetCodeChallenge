@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2615-sum-of-distances](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [3582-generate-tag-for-video-caption](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3582-generate-tag-for-video-caption) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Search Tree
