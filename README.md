@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0887-super-egg-drop](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [1631-path-with-minimum-effort](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Heap (Priority Queue)
 |  |
@@ -792,4 +795,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
