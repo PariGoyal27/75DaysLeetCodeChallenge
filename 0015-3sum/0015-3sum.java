@@ -5,41 +5,24 @@ class Solution {
         List<List<Integer>> result = new ArrayList<>();
         for(int i = 0; i < n-2; i++){
             if(i > 0 && nums[i] == nums[i-1]) continue;
-            
-            int l = i+1, r = n-1, target = -nums[i];
-            while(l < r){
-                int sum = nums[l] + nums[r];
+
+            int target = -nums[i];
+            int j = i + 1, k = n-1;
+            while(j < k){
+                int sum = nums[j] + nums[k];
                 if(sum == target){
-                    result.add(Arrays.asList(nums[i], nums[l], nums[r]));
-                    l++;
-                    r--;
-                    while(l < r && nums[l] == nums[l-1]) l++;
-                    while(l < r && nums[r] == nums[r+1]) r--;
-                }else if(sum > target)
-                    r--;
-                else
-                    l++;
+                    result.add(Arrays.asList(nums[i], nums[j], nums[k]));
+                    j++;
+                    k--;
+                    while(j < k && nums[j] == nums[j-1]) j++;
+                    while(j < k && nums[k] == nums[k+1]) k--;
+                }else if(sum < target){
+                    j++;
+                }else{
+                    k--;
+                }
             }
         }
         return result;
     }
 }
-// public List<List<Integer>> twoSum(int[] nums, int target, int l, int r) {
-//     int n = nums.length;
-//     // int l = 0, r = n-1;
-//     List<List<Integer>> ans = new ArrayList<>();
-//     while(l < r){
-//         int sum = nums[l] + nums[r];
-//         if(sum == target){
-//             ans.add(Arrays.asList(nums[l], nums[r]));
-//             l++;
-//             r--;
-//             while(l < r && nums[l] == nums[l-1]) l++;
-//             while(l < r && nums[r] == nums[r+1]) r--;
-//         }else if(sum > target)
-//             r--;
-//         else
-//             l++;
-//     }
-//     return ans;
-// }
