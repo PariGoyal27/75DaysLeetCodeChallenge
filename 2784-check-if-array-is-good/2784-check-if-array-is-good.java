@@ -6,16 +6,16 @@ class Solution {
         
         int[] base = new int[n];
         for(int i = 0; i < n; i++){
-            if(nums[i] >= n) return false;
+            if(nums[i] < 1 || nums[i] >= n) return false;
+
             base[nums[i]]++;
             if(base[nums[i]] > 2) return false;
         }
 
-        if(base[n-1] != 2) return false;
         for(int i = 1; i < n-1; i++){
             if(base[i] != 1) return false;
         }
-        return true;
+        return base[n-1] == 2;
     }
 }
 
