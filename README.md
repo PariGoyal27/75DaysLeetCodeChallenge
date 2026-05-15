@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 ## String Matching
 |  |
