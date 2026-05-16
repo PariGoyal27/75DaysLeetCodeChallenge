@@ -1,10 +1,10 @@
 class Solution {
     List<List<Integer>> ans = new ArrayList<>();
     private void solve(int[] nums, int ind, List<Integer> temp){
-        if(ind >= nums.length){
-            ans.add(new ArrayList<>(temp));
-            return;
-        }
+        // if(ind >= nums.length){
+        //     ans.add(new ArrayList<>(temp));
+        //     return;
+        // }
         ans.add(new ArrayList<>(temp));
         for(int i = ind; i < nums.length; i++){
             if(i > ind && nums[i] == nums[i-1]){
