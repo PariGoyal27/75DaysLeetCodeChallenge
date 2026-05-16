@@ -9,19 +9,30 @@
  *     }
  * }
  */
+
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        HashSet<ListNode> hs = new HashSet<>();
-        while(headA != null){
-            hs.add(headA);
-            headA = headA.next;
+        ListNode p1 = headA, p2 = headB;
+        while(p1 != p2){
+            p1 = p1 == null ? headB : p1.next;
+            p2 = p2 == null ? headA : p2.next;
         }
-        while(headB != null){
-            if(hs.contains(headB)){
-                return headB;
-            }
-            headB = headB.next;
-        }
-        return null;
+        return p1;
     }
 }
+// public class Solution {
+//     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+//         HashSet<ListNode> hs = new HashSet<>();
+//         while(headA != null){
+//             hs.add(headA);
+//             headA = headA.next;
+//         }
+//         while(headB != null){
+//             if(hs.contains(headB)){
+//                 return headB;
+//             }
+//             headB = headB.next;
+//         }
+//         return null;
+//     }
+// }
