@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3546-equal-sum-grid-partition-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1922-count-good-numbers) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Backtracking
 |  |
 | ------- |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3546-equal-sum-grid-partition-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## String Matching
 |  |
 | ------- |
