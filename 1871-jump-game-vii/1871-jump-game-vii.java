@@ -18,6 +18,7 @@ class Solution {
             
             for(int i = start; i <= end; i++){
                 if(!vis[i] && s.charAt(i) == '0'){
+                    if(i == n-1) return true;
                     q.offer(i);
                     vis[i] = true;
                 }
