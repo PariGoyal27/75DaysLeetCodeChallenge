@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0131-palindrome-partitioning) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0099-recover-binary-search-tree) |
