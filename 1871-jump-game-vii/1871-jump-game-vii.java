@@ -14,10 +14,10 @@ class Solution {
             if(ind == n-1) return true;
 
             int start = Math.max(farthestProcessed + 1, ind + minJump);
-            int end = ind + maxJump;
+            int end = Math.min(n - 1, ind + maxJump);
             
             for(int i = start; i <= end; i++){
-                if(i < n && !vis[i] && s.charAt(i) == '0'){
+                if(!vis[i] && s.charAt(i) == '0'){
                     q.offer(i);
                     vis[i] = true;
                 }
