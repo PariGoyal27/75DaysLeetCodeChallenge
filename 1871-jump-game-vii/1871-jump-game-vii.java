@@ -11,7 +11,7 @@ class Solution {
         int farthestProcessed = 0;
         while(!q.isEmpty()){
             int ind = q.poll();
-            if(ind == n-1 && s.charAt(ind) == '0') return true;
+            if(ind == n-1) return true;
 
             int start = Math.max(farthestProcessed + 1, ind + minJump);
             int end = ind + maxJump;
