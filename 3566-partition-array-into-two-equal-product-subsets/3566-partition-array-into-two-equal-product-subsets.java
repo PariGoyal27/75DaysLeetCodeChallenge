@@ -1,5 +1,4 @@
 class Solution {
-    boolean[] visited;
     private boolean solve(int[] nums, int ind, long mult, long target){
         if(mult > target) return false;
         if(mult == target) return true;
@@ -15,7 +14,6 @@ class Solution {
     }
     public boolean checkEqualPartitions(int[] nums, long target) {
         int n = nums.length;
-        visited = new boolean[n];
         Arrays.sort(nums);
 
         long mult = 1;
