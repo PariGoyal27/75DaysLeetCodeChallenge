@@ -5,8 +5,13 @@ class Solution {
         if(mult == target) return true;
         if(ind == nums.length) return false;
 
-        return solve(nums, ind + 1, mult * nums[ind], target) 
-                || solve(nums, ind + 1, mult, target);
+        // include only if curr multiplication is a factor of target
+        if(target % (mult * nums[ind]) == 0){
+            if(solve(nums, ind + 1, mult * nums[ind], target))
+                return true;
+        }
+        // don't include -> skip
+        return solve(nums, ind + 1, mult, target);
     }
     public boolean checkEqualPartitions(int[] nums, long target) {
         int n = nums.length;
@@ -14,7 +19,7 @@ class Solution {
         Arrays.sort(nums);
 
         long mult = 1;
-        for(int i = 0; i < n; i++){
+        for(int i = 0; i < n; i++){            
             mult *= nums[i];
         }
         if(target * target != mult) return false;
