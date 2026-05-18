@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1922-count-good-numbers) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3566-partition-array-into-two-equal-product-subsets) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
