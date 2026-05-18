@@ -1,41 +1,43 @@
 class Solution {
     public int minJumps(int[] arr) {
         int n = arr.length;
-        HashMap<Integer, List<Integer>> map = new HashMap<>();
+        Map<Integer, List<Integer>> map = new HashMap<>();
         for(int i = 0; i < n; i++){
             map.putIfAbsent(arr[i], new ArrayList<>());
             map.get(arr[i]).add(i);
         }
-        HashSet<Integer> seen = new HashSet<>();
-        boolean[] visited = new boolean[n];
         Queue<Integer> q = new LinkedList<>();
         q.offer(0);
-        visited[0] = true;
+        boolean[] used = new boolean[n];
+        used[0] = true;
+
         int steps = 0;
+        HashSet<Integer> seen = new HashSet<>();
+
         while(!q.isEmpty()){
             int size = q.size();
             while(size-- > 0){
-                int i = q.poll();
-                if(i == n-1) return steps;
-                // i-1
-                if(i - 1 >= 0 && !visited[i - 1]){
-                    q.offer(i - 1);
-                    visited[i - 1] = true;
-                }
+                int ind = q.poll();
+                if(ind == n-1) return steps;
                 //i + 1
-                if(i + 1 < n && !visited[i + 1]){
-                    q.offer(i + 1);
-                    visited[i + 1] = true;
+                if(ind + 1 < n && !used[ind + 1]){
+                    q.offer(ind + 1);
+                    used[ind + 1] = true; 
+                }
+                // i - 1
+                if(ind - 1 >= 0 && !used[ind - 1]){
+                    q.offer(ind - 1);
+                    used[ind - 1] = true;
                 }
                 // j
-                if(map.containsKey(arr[i]) && !seen.contains(arr[i])){
-                    for(int j : map.get(arr[i])){
-                        if(!visited[j]){
-                            q.offer(j);
-                            visited[j] = true;
+                if(!seen.contains(arr[ind])){
+                    for(int idx : map.get(arr[ind])){
+                        if(!used[idx]){
+                            q.offer(idx);
+                            used[idx] = true;
                         }
                     }
-                    seen.add(arr[i]);
+                    seen.add(arr[ind]);
                 }
             }
             steps++;
