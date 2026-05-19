@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2615-sum-of-distances](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2121-intervals-between-identical-elements) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2540-minimum-common-value](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2615-sum-of-distances](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [1631-path-with-minimum-effort](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
 |  |
