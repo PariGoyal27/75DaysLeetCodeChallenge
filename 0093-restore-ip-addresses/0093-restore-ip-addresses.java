@@ -9,16 +9,17 @@ class Solution {
             }
             return;
         }
+        if(parts > 4) return;
         for(int i = ind; i < s.length(); i++){
             String currStr = s.substring(ind, i + 1);
-            int curr = Integer.parseInt(currStr);
 
             if(currStr.length() > 3) break;
             // length is one
             if(i == ind){
                 solve(s, i + 1, parts + 1, address + currStr + '.');
             }else{
-                if(s.charAt(ind) != '0' && curr <= 255)
+                // not leading zero and withing the range
+                if(s.charAt(ind) != '0' && Integer.parseInt(currStr) <= 255)
                     solve(s, i + 1, parts + 1, address + currStr + '.');
             }
         }
