@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0282-expression-add-operators](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
 | [0396-rotate-function](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0887-super-egg-drop](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
 | [0797-all-paths-from-source-to-target](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
