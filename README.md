@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
+| [0925-long-pressed-name](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0925-long-pressed-name) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1328-break-a-palindrome) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
+| [0925-long-pressed-name](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0925-long-pressed-name) |
 | [0948-bag-of-tokens](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
