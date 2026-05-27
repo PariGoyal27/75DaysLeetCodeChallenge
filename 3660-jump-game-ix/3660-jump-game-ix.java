@@ -26,35 +26,29 @@ class Solution {
     }
 }
 // class Solution {
-//     int[] dp, state;
-//     private int solve(int[] nums, int ind, int n){
-//         // if(state[ind] == 2) return dp[ind];
+//     private int solve(int[] nums, int ind, int n, boolean[] vis){
 //         int ans = nums[ind];
-//         // state[ind] = 1;
+//         vis[ind] = true;
 //         // forward jumps
 //         for(int j = ind + 1; j < n; j++){
-//             if(nums[j] < nums[ind]){
+//             if(nums[j] < nums[ind] && !vis[j]){
 //                 ans = Math.max(ans, solve(nums, j, n));
 //             }
 //         }
 //         // backward jumps
 //         for(int j = ind - 1; j >= 0; j--){
-//             if(nums[j] > ans){
+//             if(nums[j] > ans && !vis[j]){
 //                 ans = Math.max(ans, solve(nums, j, n));
 //             }
 //         }
-//         // state[ind] = 2;
 //         return dp[ind] = ans;
 //     }
 //     public int[] maxValue(int[] nums) {
 //         int n = nums.length;
 //         int[] ans = new int[n];
-//         dp = new int[n];
-//         state = new int[n];
-//         Arrays.fill(dp, -1);
-
 //         for(int i = 0; i < n; i++){
-//             ans[i] = solve(nums, i, n);
+//             boolean[] vis = new boolean[n];
+//             ans[i] = solve(nums, i, n, vis);
 //         }
 //         return ans;
 //     }
