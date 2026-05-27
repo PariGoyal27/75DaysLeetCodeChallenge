@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3660-jump-game-ix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3660-jump-game-ix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3660-jump-game-ix) |
 ## Greedy
 |  |
 | ------- |
