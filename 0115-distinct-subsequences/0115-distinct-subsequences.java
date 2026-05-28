@@ -1,3 +1,4 @@
+// space optimization
 class Solution {
     public int numDistinct(String s, String t) {
         int m = s.length();
@@ -5,19 +6,20 @@ class Solution {
         if(n > m) return 0;
 
         int[] prev = new int[n+1];
-        int[] curr = new int[n+1];
-        prev[0] = curr[0] = 1;
+        // int[] curr = new int[n+1];
+        // curr[0] = 1;
+        prev[0] = 1;
         for(int i = 1; i <= m; i++){
-            for(int j = 1; j <= n; j++){
+            for(int j = n; j >= 1; j--){ // for(int j = 1; j <= n; j++)
                 if(s.charAt(i-1) == t.charAt(j-1)){
-                    curr[j] = prev[j] + prev[j-1];
+                    prev[j] = prev[j] + prev[j-1]; // curr[j] = prev[j] + prev[j-1];
                 }else{
-                    curr[j] = prev[j];
+                    prev[j] = prev[j]; // curr[j] = prev[j]
                 }
             }
-            for(int k = 0; k <= n; k++){
-                prev[k] = curr[k];
-            }
+            // for(int j = 1; j <= n; j++){
+            //     prev[j] = curr[j];
+            // }
         }
         return prev[n];
     }
