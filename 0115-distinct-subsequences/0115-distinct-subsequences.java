@@ -1,26 +1,50 @@
-// tabulation
 class Solution {
     public int numDistinct(String s, String t) {
         int m = s.length();
         int n = t.length();
         if(n > m) return 0;
 
-        int[][] dp = new int[m + 1][n + 1];
-        for(int i = 0; i <= m; i++){
-            dp[i][0] = 1;
-        }
+        int[] prev = new int[n+1];
+        int[] curr = new int[n+1];
+        prev[0] = curr[0] = 1;
         for(int i = 1; i <= m; i++){
             for(int j = 1; j <= n; j++){
                 if(s.charAt(i-1) == t.charAt(j-1)){
-                    dp[i][j] = dp[i-1][j] + dp[i-1][j-1];
+                    curr[j] = prev[j] + prev[j-1];
                 }else{
-                    dp[i][j] = dp[i-1][j];
+                    curr[j] = prev[j];
                 }
             }
+            for(int k = 0; k <= n; k++){
+                prev[k] = curr[k];
+            }
         }
-        return dp[m][n];
+        return prev[n];
     }
 }
+// tabulation
+// class Solution {
+//     public int numDistinct(String s, String t) {
+//         int m = s.length();
+//         int n = t.length();
+//         if(n > m) return 0;
+
+//         int[][] dp = new int[m + 1][n + 1];
+//         for(int i = 0; i <= m; i++){
+//             dp[i][0] = 1;
+//         }
+//         for(int i = 1; i <= m; i++){
+//             for(int j = 1; j <= n; j++){
+//                 if(s.charAt(i-1) == t.charAt(j-1)){
+//                     dp[i][j] = dp[i-1][j] + dp[i-1][j-1];
+//                 }else{
+//                     dp[i][j] = dp[i-1][j];
+//                 }
+//             }
+//         }
+//         return dp[m][n];
+//     }
+// }
 // recursion + memoization
 // class Solution {
 //     int[][] dp;
