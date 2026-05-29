@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1871-jump-game-vii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [3582-generate-tag-for-video-caption](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3582-generate-tag-for-video-caption) |
