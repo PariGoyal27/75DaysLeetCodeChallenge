@@ -12,7 +12,7 @@ class Solution {
                 candies[i] = candies[i-1] + 1;
             }
         }
-        int total = 0;
+        int total = candies[n-1];
         // compare with the right only
         for(int i = n-2; i >= 0; i--){
             if(ratings[i] > ratings[i+1]){
@@ -20,7 +20,6 @@ class Solution {
             }
             total += candies[i];
         }
-        total += candies[n-1];
         return total;
     }
 }
