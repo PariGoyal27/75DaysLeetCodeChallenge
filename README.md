@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
