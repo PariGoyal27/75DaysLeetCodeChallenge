@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0948-bag-of-tokens) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
 | [0396-rotate-function](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0738-monotone-increasing-digits) |
 | [0887-super-egg-drop](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [0989-add-to-array-form-of-integer](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
