@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0495-teemo-attacking) |
 | [0518-coin-change-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
