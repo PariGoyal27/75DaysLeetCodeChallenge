@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3407-substring-matching-pattern](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3407-substring-matching-pattern) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3582-generate-tag-for-video-caption) |
 ## Dynamic Programming
 |  |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Math
 |  |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
 | ------- |
