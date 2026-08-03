@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
+| [1406-stone-game-iii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1340-jump-game-v) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1406-stone-game-iii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1871-jump-game-vii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0887-super-egg-drop) |
 | [0989-add-to-array-form-of-integer](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0989-add-to-array-form-of-integer) |
 | [0991-broken-calculator](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0991-broken-calculator) |
+| [1406-stone-game-iii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Enumeration
 |  |
