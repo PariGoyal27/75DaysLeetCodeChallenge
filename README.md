@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2540-minimum-common-value](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2295-replace-elements-in-an-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2540-minimum-common-value](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2615-sum-of-distances](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [1871-jump-game-vii](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/1871-jump-game-vii) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/PariGoyal27/75DaysLeetCodeChallenge/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Tree
 |  |
 | ------- |
